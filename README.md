@@ -5,6 +5,10 @@ display last 5 Order History from Amazon Account user need to enter USERNAME & P
 
 ## How to Run Application
 
+```
+  npm install
+```
+
 #### use TS Complier to convert JS
 
 ```
